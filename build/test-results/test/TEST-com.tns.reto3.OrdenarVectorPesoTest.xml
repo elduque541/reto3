@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tns.reto3.OrdenarVectorPesoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-01-03T14:03:30" hostname="Vostro14-GustavoD" time="0.076">
+  <properties/>
+  <testcase name="compararNumeroPesoVacio" classname="com.tns.reto3.OrdenarVectorPesoTest" time="0.076"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
